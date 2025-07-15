@@ -1,1 +1,1 @@
-renders default
+The default location for renders
