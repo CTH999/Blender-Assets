@@ -1,1 +1,1 @@
-cache default
+The default location for the caches of renders
