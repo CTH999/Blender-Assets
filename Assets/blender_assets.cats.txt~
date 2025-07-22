@@ -1,0 +1,21 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+029bd58d-aa8b-49ed-8163-b34aea313a81:Credit:Credit
+9fcea5d9-10c7-42d9-86c9-24e3e1c62a61:Curve:Curve
+d3f2d3e9-d606-4d6e-acd0-154f7eb88cf8:Curve/Store Detail:Curve-Store Detail
+0bdd958b-65da-4352-89ec-e531a9768168:Debug:Debug
+fbb043c9-6d1c-4727-b7ca-9c24d54779d0:Geometry:Geometry
+428d00ba-e8d7-4b88-8e12-8259e96f9d30:Geometry/UV Maps:Geometry-UV Maps
+d0d69372-c068-4827-87b5-783afa01cd43:Geometry/UV Maps/Basic:Geometry-UV Maps-Basic
+bef817db-425d-4e98-96a9-6d8a9949b336:Geometry/UV Maps/Medium:Geometry-UV Maps-Medium
+a54c0b68-310d-4f51-96c1-8bb242ce44ce:Mesh:Mesh
+fccf59ae-428c-4497-9048-ffcd930f8368:Point:Point
+4b08c8f5-835b-41c0-b977-31fada1cbcd5:Point/Modular Scaleing:Point-Modular Scaleing
+3dca1b5b-08a8-4902-b52d-9d6e5ba6384f:Wood:Wood
+21c52788-9460-4452-ae71-ccfc488353ee:Wood/Components:Wood-Components
