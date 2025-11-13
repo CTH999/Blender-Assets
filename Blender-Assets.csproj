@@ -63,6 +63,35 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include=".github\LICENSE" />
+    <None Include=".github\README.md" />
+    <None Include="Assets\Asset Test.blend1" />
+    <None Include="Assets\Assets.blend" />
+    <None Include="Assets\Assets.blend1" />
+    <None Include="Assets\Basic Assets.blend" />
+    <None Include="Assets\Basic Assets.blend1" />
+    <None Include="Assets\blendcache_Basic Assets\Cube_GeometryNodes\887527125\desktop.ini" />
+    <None Include="Assets\blendcache_Basic Assets\Cube_GeometryNodes\887527125\meta\00000_00000.json" />
+    <None Include="Assets\blendcache_Basic Assets\Cube_GeometryNodes\887527125\meta\desktop.ini" />
+    <None Include="Assets\blendcache_Basic Assets\Cube_GeometryNodes\desktop.ini" />
+    <None Include="Assets\blendcache_Basic Assets\desktop.ini" />
+    <None Include="Assets\blender_assets.cats.txt~" />
+    <None Include="Assets\desktop.ini" />
+    <None Include="Assets\Dynamic Wood Texture.blend" />
+    <None Include="Assets\Dynamic Wood Texture.blend1" />
+    <None Include="Assets\Expirments for Assets\Asset Test.blend" />
+    <None Include="Assets\Expirments for Assets\Asset Test.blend1" />
+    <None Include="Assets\Expirments for Assets\desktop.ini" />
+    <None Include="Assets\Hair.blend" />
+    <None Include="Assets\Hair.blend1" />
+    <None Include="Assets\Hyper-Alpha Asset Components.blend" />
+    <None Include="Assets\Scene and World.blend" />
+    <None Include="Assets\Scene and World.blend1" />
+    <None Include="Assets\Source Images\desktop.ini" />
+    <None Include="Assets\Source Images\Wood\desktop.ini" />
+    <None Include="Assets\Temp\desktop.ini" />
+    <None Include="Assets\vertex offsets.blend" />
+    <None Include="Assets\vertex offsets.blend1" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -75,6 +104,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\assets go here.txt" />
+    <Content Include="Assets\blender_assets.cats.txt" />
+    <Content Include="Assets\Source Images\Dynamic Texture for Wall- Concept by Grace.jpg" />
+    <Content Include="Assets\Source Images\Wood\Dynamic Wood Texture for shelf- Concept by Grace.jpg" />
+    <Content Include="expiriments\place for expiriments.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
