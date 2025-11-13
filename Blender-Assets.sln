@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36705.20 d17.14
+VisualStudioVersion = 17.14.36705.20
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blender-Assets", "Blender-Assets.csproj", "{3BF5CE82-C291-48E3-B3E2-FEC4E848AF1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Files\Files.csproj", "{10D566C9-A647-4A2C-A689-B72429D086AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3BF5CE82-C291-48E3-B3E2-FEC4E848AF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF5CE82-C291-48E3-B3E2-FEC4E848AF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF5CE82-C291-48E3-B3E2-FEC4E848AF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D566C9-A647-4A2C-A689-B72429D086AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D566C9-A647-4A2C-A689-B72429D086AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D566C9-A647-4A2C-A689-B72429D086AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D566C9-A647-4A2C-A689-B72429D086AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
