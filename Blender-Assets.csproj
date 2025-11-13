@@ -111,6 +111,9 @@
     <Content Include="Assets\Source Images\Dynamic Texture for Wall- Concept by Grace.jpg" />
     <Content Include="Assets\Source Images\Wood\Dynamic Wood Texture for shelf- Concept by Grace.jpg" />
     <Content Include="expiriments\place for expiriments.txt" />
+    <Content Include="Renders\Cache\Cache.txt" />
+    <Content Include="Renders\Renders.txt" />
+    <Content Include="Scripts\Scripts.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
